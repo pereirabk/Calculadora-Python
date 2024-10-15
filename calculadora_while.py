@@ -3,8 +3,6 @@ while True:
     numero_1 = input('Digite um numero: ')
     numero_2 = input('Digite outro numero: ')
     operador = input('Digite o operador (+-/*): ')
-
-
     
     numero_validos = None
     num_1_float = 0
